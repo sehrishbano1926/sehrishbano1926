@@ -1,4 +1,4 @@
-![image](https://github.com/sehrishbano1926/sehrishbano1926/assets/172434664/df428e35-045a-4a4b-8362-b9a88adc8f96)
+![image](https://github.com/sehrishbano1926/sehrishbano1926/assets/172434664/bf7f64ea-2859-43be-b4a4-23deb7f984ca)
 
 <h1 align="center">Hi 👋, I'm sehrish bano</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
