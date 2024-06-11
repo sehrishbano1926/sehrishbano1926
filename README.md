@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm sehrish bano</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-<img align="right"alt="programmer"width="400"src"![image](https://github.com/sehrishbano1926/sehrishbano1926/assets/172434664/0641fb56-4181-43ac-9712-10a9a52abdb2)
+<img align="right"alt="programmer"width="400"src"![image](https://github.com/sehrishbano1926/sehrishbano1926/assets/172434664/a85649d6-8cc7-4352-a4f1-d4bac635500e)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrishbano1926&label=Profile%20views&color=0e75b6&style=flat" alt="sehrishbano1926" /> </p>
